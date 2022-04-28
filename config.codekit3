@@ -208,21 +208,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/Icon Rounded\/Icon Rounded\/collections.svg" : {
+    "\/deploy\/img\/heroes\/collections.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/heroes\/Icon Rounded\/Icon Rounded\/collections.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/heroes\/Icon Rounded\/play_arrow.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/heroes\/Icon Rounded\/play_arrow.svg",
+      "oAP" : "\/deploy\/img\/heroes\/collections.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -253,6 +243,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/heroes\/play_arrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/heroes\/play_arrow.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/img\/heroes\/tj hero 3.jpg" : {
       "ft" : 16384,
