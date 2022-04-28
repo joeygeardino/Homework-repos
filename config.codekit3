@@ -208,6 +208,26 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/heroes\/Icon Rounded\/Icon Rounded\/collections.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/heroes\/Icon Rounded\/Icon Rounded\/collections.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/heroes\/Icon Rounded\/play_arrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/heroes\/Icon Rounded\/play_arrow.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/heroes\/najee hero 2.jpg" : {
       "ft" : 16384,
       "iS" : 176950,
@@ -284,28 +304,12 @@
       "oAP" : "\/dev\/content\/articles.html",
       "oF" : 0
     },
-    "\/dev\/content\/CTAs.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/CTAs.html",
-      "oF" : 0
-    },
     "\/dev\/content\/hero-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/hero-1.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/hero-2.html",
       "oF" : 0
     },
     "\/dev\/content\/search.kit" : {
