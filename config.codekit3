@@ -296,12 +296,12 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/articles.kit" : {
+    "\/dev\/content\/gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/articles.html",
+      "oAP" : "\/dev\/content\/gallery.html",
       "oF" : 0
     },
     "\/dev\/content\/hero-1.kit" : {
@@ -310,6 +310,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/hero-1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/new.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/new.html",
       "oF" : 0
     },
     "\/dev\/content\/search.kit" : {
