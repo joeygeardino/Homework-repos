@@ -1,3 +1,15 @@
 /* =============
     Footer
 ============= */
+
+#follow-us{
+
+    ul{ 
+        display: grid;
+        gap: 24px;
+        grid-template-rows: repeat(4, 24px, );
+        li{
+           
+        }
+    }
+}
