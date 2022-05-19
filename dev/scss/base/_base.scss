@@ -20,3 +20,11 @@ ul{
         grid-area: header;
     }
 }
+
+body{
+    background-color: red;
+
+    @include md{
+        background-color: green;
+    }
+}

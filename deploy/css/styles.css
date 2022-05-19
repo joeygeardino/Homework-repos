@@ -369,6 +369,15 @@ ul li {
   grid-area: header;
 }
 
+body {
+  background-color: red;
+}
+@media (min-width: 768px) {
+  body {
+    background-color: green;
+  }
+}
+
 /* =============
     Typography
 ============= */
