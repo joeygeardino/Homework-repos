@@ -3,7 +3,13 @@
 ============= */
 
 #gallery{
-    img{
-        width: 100%;
+
+    ul{
+        li{
+            img{
+                width: 100%;
+            }
+        }
     }
+
 }

@@ -14,17 +14,14 @@ ul{
 .css-grid-global{
         display: grid;
     grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". header .";
+    grid-template-areas: ". global-content .";
 
     >div{
-        grid-area: header;
+        grid-area: global-content;
     }
 }
 
 body{
-    background-color: red;
+    background-color: white;
 
-    @include md{
-        background-color: green;
-    }
 }

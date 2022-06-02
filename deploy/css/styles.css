@@ -363,19 +363,14 @@ ul li {
 .css-grid-global {
   display: grid;
   grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". global-content .";
 }
 .css-grid-global > div {
-  grid-area: header;
+  grid-area: global-content;
 }
 
 body {
-  background-color: red;
-}
-@media (min-width: 768px) {
-  body {
-    background-color: green;
-  }
+  background-color: white;
 }
 
 /* =============
@@ -417,17 +412,30 @@ textarea {
 /* =============
     CTAs
 ============= */
+#CTAs .CTA-sub-content > div {
+  display: grid;
+  grid-template-columns: 75% auto;
+}
+#CTAs .CTA-sub-content > div aside img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  #CTAs {
+    grid-template-columns: auto 80% auto;
+  }
+}
+
 /* =============
     gallery
 ============= */
-#gallery img {
+#gallery ul li img {
   width: 100%;
 }
 
 /* =============
     hero-1
 ============= */
-#hero-1 img {
+#hero img {
   width: 100%;
 }
 

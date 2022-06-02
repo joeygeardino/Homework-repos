@@ -3,4 +3,31 @@
 ============= */
 
 #CTAs{
+
+    .CTA-sub-content{
+        >div{
+            display: grid;
+            grid-template-columns: 75% auto;
+
+            section{
+
+            }
+
+            aside{
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    @include md{
+        // grid is being set from base scss file with the class of ccs-grid-global
+        grid-template-columns: auto 80% auto;
+
+        body{
+            
+        }
+    }
+
 }
